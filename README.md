@@ -1,1 +1,0 @@
-# rijalmyd.github.io
