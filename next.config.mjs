@@ -8,8 +8,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // Uncomment and set your repo name for GitHub Pages deployment
-  // basePath: '/your-repo-name',
-  // assetPrefix: '/your-repo-name/',
+  basePath: '/rijalmyd.github.io',
+  assetPrefix: '/rijalmyd.github.io/',
 }
 
 export default nextConfig
