@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[64936,["/rijalmyd.github.io/_next/static/chunks/0xiax.o5oqfu2.js","/rijalmyd.github.io/_next/static/chunks/0vydx426to-rs.js"],"ClientPageRoot"]
+3:I[31713,["/rijalmyd.github.io/_next/static/chunks/0xiax.o5oqfu2.js","/rijalmyd.github.io/_next/static/chunks/0vydx426to-rs.js","/rijalmyd.github.io/_next/static/chunks/0wo3-29kvaiz7.js"],"default"]
+6:I[46608,["/rijalmyd.github.io/_next/static/chunks/0xiax.o5oqfu2.js","/rijalmyd.github.io/_next/static/chunks/0vydx426to-rs.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/rijalmyd.github.io/_next/static/chunks/0wo3-29kvaiz7.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"V3XOuHmnFhuQWRluZbU2Z"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
